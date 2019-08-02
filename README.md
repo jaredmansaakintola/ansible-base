@@ -1,8 +1,5 @@
 # ansible-base
-Simulate Cloud archetecture 
-
-
-# Ansible with Docker
+Simulate Cloud archetecture (Dev environment)
 
 This project is a created for study purposes.
 
